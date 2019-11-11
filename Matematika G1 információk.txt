@@ -1,0 +1,9 @@
+Kedves $1!
+A 14. heti kisZH eredményed: $2 pont
+$3
+
+Holnap még küldök egy e-mailt egy-két infóval amit ígértem (pl.: ívhossz, súlypont képletek).
+Ha kérdésetek van az anyag bármely részével kapcsolatban, e-mail-ben vagy személyesen is konzultálhatunk.
+
+Üdv,
+Csaba
